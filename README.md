@@ -1,8 +1,8 @@
 Sistema de Gestión de Biblioteca:
 Integrantes
-- Fernando Yeray Medinaceli Andrade
-- David Abraham Apaza Nistaza
-- Benjamin Mateo Magueno Cano
+- Fernando Yeray Medinaceli Andrade (fma748)
+- David Abraham Apaza Nistaza (DavidNistaza07-pixel)
+- Benjamin Mateo Magueno Cano (
 
 
 
